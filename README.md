@@ -2,7 +2,7 @@
 - 🌱 Currently learning Java & DSA
 - 👩‍💻 Full-Stack Developer in progress
 - 🚀 Building cool projects
-- 
+  
 ## 🔬 Current Project
 🚧 **Transfer Learning with NLP using LLMs for Breast Cancer Classification**
 
